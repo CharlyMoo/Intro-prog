@@ -27,7 +27,7 @@ public class Main {
 
 
 class Coche{
-    public int numeroPuertas = 0;
+    public int numeroPuertas = 4;
 
     public void incrementaNumPuertas(){
         this.numeroPuertas++;
